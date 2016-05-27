@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f132d87a5aa6c5e236c472de6f26c8ce40894b20">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\instant-run_821b78715399cd979fc8e6ad95bf1eba424f936c.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="857e7c4a3dec0dd8e0057997d7c4ccb90eaca898">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c1c553310e4c230134a4773cc8cadfb1f5a38778.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_8c0d595dd154e92c7f45aea392b85b6c22aaebd6.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_feaa683769c0ccd99b80e6fd6b99d706dc795f89.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_cac12132f44210b4f8c8686cb8fc9b315c20cd84.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_325b2daaa80eca80678d40b49cfdeb9d67e7b817.jar" />
+    </item>
+    <item
+        jar="E:\androidstudioprojects\Perspective\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\androidstudioprojects\Perspective\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5ac38b06f7cfff1724834a6964246fc7e70f335b.jar" />
+    </item>
+
+</items>
